@@ -1,5 +1,5 @@
-    # This website attempt was for Interview with VWC
+# This website attempt was for Interview with VWC
 
-      It was done using HTLM and CSS "First Attempt coding"
+It was done using HTLM and CSS "First Attempt coding"
 
-      *README file was done using Markdown
+*README file was done using Markdown
