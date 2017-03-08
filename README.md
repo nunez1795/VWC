@@ -2,4 +2,4 @@
 
 It was done using HTLM and CSS "First Attempt coding"
 
-*README file was done using Markdown
+* README file was done using Markdown
