@@ -1,0 +1,75 @@
+html
+{
+	background-color: black;
+}
+
+body
+{
+	Front-family: sans-serif;
+	front-size: 20px;
+	line-height: 1.5;
+}
+
+img
+{
+	width: 100%
+}
+h1
+{
+	text-align: center;
+	padding-top; 20px;
+	text-transform: uppercase;
+	color: #bbd55e;
+}
+#middle
+{
+	background-color: teal;
+	padding: 25px;
+}
+#video
+{
+	text-align: center;
+	background-color: teal;
+	padding: 25px;
+}
+
+#menu
+
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;	
+	
+}
+
+#items
+
+{
+
+	float: left;
+
+}
+
+a:link, a:visited
+{
+	display: block;
+	width: 200px;
+	font-weight: bold;
+	color: white;
+	background-color: black;
+	text-aligin: center;
+	padding: 5px;
+	text-decoration: none;
+	
+}
+
+a:hover, a:active
+{
+	color: teal;
+}
+
+	
+
+	
+	
