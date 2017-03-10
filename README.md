@@ -3,3 +3,4 @@
 It was done using HTLM and CSS "First Attempt coding"
 
 * README file was done using Markdown
+* Waiting for first project in Codepen
