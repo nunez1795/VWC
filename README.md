@@ -31,4 +31,4 @@ As a visitor, I want to be able to download the persons resume.
 ### Feature:
 Have link that will show a resume that can be printed  
 ## Wireframe
-![Wireframe](C:\Users\DADLAPTOP\Desktop\VWCCourse\VWCinterview\Images\WIREFRAME.pdf)
+![Wireframe](https://github.com/nunez1795/VWC/blob/master/Images/WIREFRAME.pdf)
