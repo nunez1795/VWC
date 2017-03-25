@@ -31,5 +31,5 @@ As a visitor, I want to be able to download the persons resume.
 ### Feature:
 Have link that will show a resume that can be printed  
 ## Wireframe
-![Wireframe]
-(https://github.com/nunez1795/VWC/blob/master/Images/wireframe.jpg"Wireframe")
+![alt tag]
+(https://github.com/nunez1795/VWC/blob/master/Images/wireframe.jpg)
